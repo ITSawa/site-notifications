@@ -1,0 +1,27 @@
+{
+  "name": "site-notifications",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A simple and stylish library for displaying notifications on a webpage.",
+  "keywords": [
+    "notifications",
+    "site-notifications",
+    "web-notifications",
+    "UI",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITSawa/site-notifications.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ITSawa/site-notifications/issues"
+  },
+  "homepage": "https://github.com/ITSawa/site-notifications#readme",
+  "dependencies": {}
+}
