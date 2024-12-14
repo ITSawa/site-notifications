@@ -230,20 +230,4 @@ document.addEventListener("DOMContentLoaded", () => {
    *   .then((data) => spawnNotification(data.title, "success"))
    *   .catch((error) => spawnNotification(error.message, "error"));
    */
-
-  setTimeout(() => {
-    spawnNotification("Success message", "success");
-  }, 1000);
-  setTimeout(() => {
-    spawnNotification("Error message", "error");
-  }, 2000);
-  setTimeout(() => {
-    spawnNotification("Warning message", "warning");
-  }, 3000);
-  setTimeout(() => {
-    spawnNotification("Info message", "info");
-  }, 4000);
-  setTimeout(() => {
-    spawnNotification("Dark message", "dark", 2000);
-  }, 5000);
 });
